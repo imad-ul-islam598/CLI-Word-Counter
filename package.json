@@ -1,0 +1,20 @@
+{
+  "name": "imk-word-counter",
+  "version": "1.0.0",
+  "description": "This Is A CLI Based Word Counting Project. This Project is Developed By Imad Ul Islam. Run This Command on Your CMD For Testing 'npx imk-word-counter'",
+  "main": "main.js",
+  "type":"module",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "IMAD UL ISLAM",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+  
+}
